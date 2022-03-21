@@ -27,7 +27,7 @@ IGS.C.CurrencyPlurals = {
 ---------------------------------------------------------------------------]]
 -- На какую кнопку будет открываться донат менюшка
 -- https://wiki.facepunch.com/gmod/Enums/KEY
-IGS.C.MENUBUTTON = KEY_F1
+IGS.C.MENUBUTTON = KEY_F6
 
 
 -- /команда для открытия донат менюшки
